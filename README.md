@@ -1,12 +1,12 @@
 <div align="center">
   
-  # Gour Chandra Saha
+  # Anto Das Ahir
   
   <p><em>Full-Stack Web Developer from Bangladesh with a passion for creating elegant solutions</em></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-joy.vertoone.com-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://joy.vertoone.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-goursahajoy-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/goursahajoy)
-[![Email](https://img.shields.io/badge/Email-gour.joy24@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gour.joy24@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-anto.vercel.com-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://anto-das-ahir.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-antodasahir-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anto-das-ahir-7b539a348/)
+[![Email](https://img.shields.io/badge/Email-gour.joy24@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:antodasahir@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=anto-das&style=flat&color=blueviolet)](https://github.com/anto-das)
 
 </div>
@@ -21,8 +21,8 @@
 <summary><b>Languages</b></summary>
 <br>
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <!-- <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <!-- <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /> -->
 </p>
 </details>
 
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
   <img src="https://img.shields.io/badge/Ant_Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
+  <!-- <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" /> -->
 </p>
 </details>
 
@@ -61,7 +61,7 @@
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
+<!-- <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" /> -->
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
@@ -75,14 +75,14 @@
 <br>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <!-- <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" /> -->
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" />
-  <img src="https://img.shields.io/badge/PNPM-F69220?style=for-the-badge&logo=pnpm&logoColor=black" alt="PNPM" />
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" />
+  <!-- <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" /> -->
+  <!-- <img src="https://img.shields.io/badge/PNPM-F69220?style=for-the-badge&logo=pnpm&logoColor=black" alt="PNPM" />
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" /> -->
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
@@ -92,7 +92,7 @@
 ## 💫 Career Timeline
 
 <!--START_SECTION:timeline-->
-<div align="center">
+<!-- <div align="center">
   <table border="0">
     <tr>
       <td width="120" align="center">
@@ -131,7 +131,7 @@
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 <!--END_SECTION:timeline-->
 
 ## 📊 GitHub Stats
@@ -160,24 +160,24 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/goursahajoy">
+  <a href="https://www.linkedin.com/in/anto-das-ahir-7b539a348">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://joy.vertoone.com/">
+  <a href="https://anto-das-ahir.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:gour.joy24@gmail.com">
+  <a href="mailto:antodasahir@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://facebook.com/goursahajoy">
+  <!-- <a href="https://facebook.com/goursahajoy">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://instagram.com/goursahajoy">
+  </a> -->
+  <!-- <a href="https://instagram.com/goursahajoy">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://twitter.com/goursahajoy">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+  </a> -->
 </p>
 
 <div align="center">
