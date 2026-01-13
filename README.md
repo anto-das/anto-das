@@ -5,7 +5,7 @@
   <p><em>Full-Stack Web Developer from Bangladesh with a passion for creating elegant solutions</em></p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-anto.vercel.com-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://anto-das-ahir.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-antodasahir-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anto-das-ahir-7b539a348/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anto.das.ahir-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anto-das-ahir-7b539a348/)
 [![Email](https://img.shields.io/badge/Email-antodasahir@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:antodasahir@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=anto-das&style=flat&color=blueviolet)](https://github.com/anto-das)
 
