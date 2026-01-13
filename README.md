@@ -66,6 +66,7 @@
 <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="Better Auth" />
 <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=api&logoColor=white" alt="REST API" />
 </p>
 </details>
