@@ -93,7 +93,7 @@
 ## 💫 Career Timeline
 
 <!--START_SECTION:timeline-->
-<!-- <div align="center">
+ <div align="center">
   <table border="0">
     <tr>
       <td width="120" align="center">
@@ -105,7 +105,7 @@
         <p><i>Skills: HTML, CSS, JavaScript, Responsive Design</i></p>
       </td>
     </tr>
-    <tr><td colspan="2"><div align="center">⬇️</div></td></tr>
+    <!-- <tr><td colspan="2"><div align="center">⬇️</div></td></tr>
     <tr>
       <td width="120" align="center">
         <img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
@@ -130,9 +130,9 @@
         <p>Working as a Full-Stack Engineer, mainly on the Google Ads Manager in marketing. Built a dynamic ad management form handling multiple entries with validation logic — challenging, but a rewarding experience.</p>
         <p><i>Skills: React, Node.js, Express.js, Mongodb, Goggle apis</i></p>
       </td>
-    </tr>
+    </tr> -->
   </table>
-</div> -->
+</div> 
 <!--END_SECTION:timeline-->
 
 ## 📊 GitHub Stats
@@ -150,7 +150,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anto-das&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%" alt="Contribution Graph"/>
 </div>
 
-## 💝 Support Me
+
 
 <!-- <div align="center">
   <a href="https://buymeacoffee.com/goursahajoy">
