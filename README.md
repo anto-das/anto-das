@@ -139,7 +139,7 @@
 
 <div align="center">
   <a href="https://github.com/anto-das">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anto-das&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117" alt="Gour's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anto-das&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117" alt="Anto's GitHub Stats"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anto-das&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117" alt="Most Used Languages"/>
   </a>
 </div>
