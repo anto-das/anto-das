@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  # Anto Das Ahir
+  # Anto Das
   
   <p><em>Full-Stack Web Developer from Bangladesh with a passion for creating elegant solutions</em></p>
 
